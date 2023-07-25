@@ -5,4 +5,4 @@ It was initially private but later, I decided to open it to public so that other
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dYuxiCX6aKc
 " target="_blank"><img src="http://img.youtube.com/vi/dYuxiCX6aKc/0.jpg" 
-alt="Demo video." width="480" height="360" border="10" /></a>
+alt="Demo video." width="720" height="540" border="10" /></a>
