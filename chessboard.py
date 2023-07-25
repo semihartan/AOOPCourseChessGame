@@ -122,7 +122,7 @@ class ChessBoard(GameObject):
         self.add_piece(Rook(False, [0, 0]))
         self.add_piece(Rook(False, [7, 0]))
         self.add_piece(Knight(False, [6, 0]))
-        self.add_piece(Knight(False, [5, 0]))
+        self.add_piece(Knight(False, [1, 0]))
         self.add_piece(Bishop(False, [5, 0]))
         self.add_piece(Bishop(False, [2, 0]))
         self.add_piece(Queen(False, [3, 0]))
